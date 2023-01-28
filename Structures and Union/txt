@@ -1,0 +1,4 @@
+Union share same memory space
+structures don't
+sturcture can be used to access multiple members at the same time
+Unions can't be used to access multiple members at the same time 
